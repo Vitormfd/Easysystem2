@@ -29,7 +29,7 @@ export type Product = {
 
 // Enquanto vazio, "Contratar agora" abre o WhatsApp com mensagem pronta.
 export const paymentLinks: Record<string, string> = {
-  easyfoodhub: '',
+  easyfoodhub: 'https://easy-food-hub-lp.vercel.app/',
   easypdv: '',
   easystudio: 'https://geteasystudio.com.br',
 }
