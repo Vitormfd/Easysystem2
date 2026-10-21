@@ -44,7 +44,7 @@ export const products: Product[] = [
       'Para hamburguerias, lanchonetes e food service que vivem entre salão, delivery e WhatsApp',
     description:
       'Painel completo que junta salão, delivery, retirada, cardápio online, caixa, financeiro e marketing em um só lugar — para você parar de controlar o restaurante em três apps e um caderno diferentes.',
-    price: '179,90',
+    price: '199,90',
     priceNote: 'por mês',
     features: [
       'Mesas e salão: abrir conta, lançar pedidos, pagamento parcial e fechar conta',
@@ -105,7 +105,7 @@ export const products: Product[] = [
     tagline: 'Agenda, clientes e financeiro em um só app para quem vive de beleza',
     description:
       'Feito para lash designer, manicure, esteticista, barbeiro e outros profissionais da beleza organizarem a agenda, os clientes e o financeiro direto do celular — com link próprio para o cliente agendar sozinho.',
-    price: '29,90',
+    price: '59,90',
     priceNote: 'por mês',
     features: [
       'Agenda em visão de dia, semana e mês, com bloqueio de horário e aviso de conflito',
