@@ -44,7 +44,7 @@ export const products: Product[] = [
       'Para hamburguerias, lanchonetes e food service que vivem entre salão, delivery e WhatsApp',
     description:
       'Painel completo que junta salão, delivery, retirada, cardápio online, caixa, financeiro e marketing em um só lugar — para você parar de controlar o restaurante em três apps e um caderno diferentes.',
-    price: '199,90',
+    price: '199,00',
     priceNote: 'por mês',
     features: [
       'Mesas e salão: abrir conta, lançar pedidos, pagamento parcial e fechar conta',
